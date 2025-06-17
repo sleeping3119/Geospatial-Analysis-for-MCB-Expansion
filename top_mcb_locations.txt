@@ -1,0 +1,9 @@
+Top 3 Locations - Opportunity: No Bank Area
+Rank 1: 8273819.71, 3682111.59 | Score: 0.3333
+Rank 2: 8259225.64, 3704398.77 | Score: 0.1453
+Rank 3: 8265212.95, 3713397.07 | Score: 0.0974
+
+Top 3 Locations - Opportunity: Rival Present, MCB Absent
+Rank 1: 8257728.81, 3680316.00 | Score: 0.0124
+Rank 2: 8259599.85, 3680675.10 | Score: 0.0041
+Rank 3: 8286542.74, 3693969.06 | Score: 0.0005
